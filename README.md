@@ -1,3 +1,3 @@
 # TetrisC2
 
-The game can be run either by building Tetris.sln, or by running Debug/Tetris.exe
+The game can be run either by running Debug/Tetris.exe, or by building Tetris.sln
